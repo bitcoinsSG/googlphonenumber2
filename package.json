@@ -1,0 +1,26 @@
+{
+  "name": "googlphonenumber2",
+  "version": "0.0.1",
+  "description": "source updated port of google's phone lib for node",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitcoinsSG/googlphonenumber2.git"
+  },
+  "keywords": [
+    "phone",
+    "number",
+    "node",
+    "validator",
+    "google"
+  ],
+  "author": "Gaurav S.J.B. Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitcoinsSG/googlphonenumber2/issues"
+  },
+  "homepage": "https://github.com/bitcoinsSG/googlphonenumber2#readme"
+}
