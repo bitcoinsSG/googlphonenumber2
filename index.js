@@ -1,3 +1,3 @@
 #!/usr/bin/env node
-var goog-libphonenumber = require('./google-compiled');
-module.exports = goog-libphonenumber;
+var googlphonenumber2 = require('./google-compiled');
+module.exports = googlphonenumber2;

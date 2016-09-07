@@ -1,6 +1,6 @@
 {
   "name": "googlphonenumber2",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "source updated port of google's phone lib for node",
   "main": "index.js",
   "scripts": {
